@@ -138,15 +138,9 @@ Visadorm is:
 ✔ Non-custodial by design
 ✔ Built for long-term scalability
 
-🌐 Official Links
-Website → https://visadorm.com
-Developer Widgets → https://visadorm.com/widgets
-Community (Telegram) → https://t.me/visadorm
-Facebook → https://facebook.com/visadorm
+## 🌐 Official Links
 
-
-
-
-
-
-
+[![Website](https://img.shields.io/badge/Website-visadorm.com-black?style=for-the-badge)](https://visadorm.com)
+[![Widgets](https://img.shields.io/badge/Developer-Widgets-blue?style=for-the-badge)](https://visadorm.com/widgets)
+[![Telegram](https://img.shields.io/badge/Telegram-Community-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/visadorm)
+[![Facebook](https://img.shields.io/badge/Facebook-Page-1877F2?style=for-the-badge&logo=facebook)](https://facebook.com/visadorm)
