@@ -137,3 +137,16 @@ Visadorm is:
 ✔ USDC-native
 ✔ Non-custodial by design
 ✔ Built for long-term scalability
+
+🌐 Official Links
+Website → https://visadorm.com
+Developer Widgets → https://visadorm.com/widgets
+Community (Telegram) → https://t.me/visadorm
+Facebook → https://facebook.com/visadorm
+
+
+
+
+
+
+
