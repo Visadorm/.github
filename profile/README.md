@@ -55,7 +55,7 @@ All protocol revenue and settlement flows are denominated in USDC.
 
 ---
 
-## 🚀 Designed for 1 Trillion+ Bookings Per Year
+## 🚀 Built for global-scale settlement infrastructure.
 
 Visadorm is architected for extreme global scale.
 
